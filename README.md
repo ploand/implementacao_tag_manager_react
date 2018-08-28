@@ -2,6 +2,7 @@
 
 - Utilizado o design pattern adapter
 - De acordo com o modelo de implementação do google tag manager, em vários locais da aplicação devem ser implementados data layers diferentes e por isso foi decido por usar o pattern de adapter
+- importações utilizam a pasta "google_tag_manager"
 
 ## Exemplo de utilização:
 
